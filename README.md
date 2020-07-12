@@ -1,2 +1,2 @@
 # A-Binary-Counter-Which-Counts-Two-Different-Sequences
-A Binary counter which counts two different sequences with a 3 minute waiting process between the sequences. The counter starts counting after a Start-Push Button is pressed.
+A Binary counter which counts two different sequences with a 3 minute waiting process between the sequences. The first sequence is 0, 4, 6, 8, 12, 14. After the counter reaches 14; it stops and waits for 3 minutes. After the 3 minutes wait is over, counter starts counting its second sequence, which is 0, 1, 2, 3, 4, .... , 15. There are 6.667 seconds in between every count and 2-to-1 Multiplexers are used to control the waiting process and sequence change.
